@@ -1,3 +1,19 @@
-p {
-    background: #FFA7A7 ;
-}
+    p {
+        background: #FFA7A7;
+        font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+    
+    #mediumfontinblue {
+        font-size: 36px;
+        color: #0000FF;
+    }
+    
+    .mediumsize {
+        font-size: 24px;
+    }
+    
+    #boldandgreen {
+        background: #80FD80;
+        font-weight: bold;
+        font-size: 24px;
+    }
